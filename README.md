@@ -6,7 +6,7 @@ You can NOT use them in prudoct enviroment directly.
 
 OpenOPS PowerStore:   https://github.com/QD888/OpenOPS-PowerStore
 
-OpenOps XtremIO:      https://github.com/QD888/OpenOps-XtremIO
+OpenOPS XtremIO:      https://github.com/QD888/OpenOPS-XtremIO
 
 OpenOPS Unity:        https://github.com/QD888/OpenOPS-Unity
 
