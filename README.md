@@ -2,7 +2,7 @@
 OpenOPS for Information Technology
 
 Bellow projects is prototype for Dell EMC storage monitor with Python.
-You can NOT use them in prudoct enviroment directly.
+You can NOT use them in product enviroment directly.
 
 OpenOPS PowerStore:   https://github.com/QD888/OpenOPS-PowerStore
 
